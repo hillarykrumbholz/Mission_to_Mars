@@ -19,10 +19,10 @@ def index():
 @app.route("/scrape")
 def scrape():
    mars = mongo.db.mars
-   mars_data = scrape_mars .scrape_all()
+   mars_data = scrape_mars.scrape_all()
    mars.update({}, mars_data, upsert=True)
    return "Scraping Successful!"
 
-# Tell Flask to run
+# Tell Flask to
 if __name__ == "__main__":
    app.run()
