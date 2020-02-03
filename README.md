@@ -17,4 +17,4 @@
 ![Portfolio](https://github.com/hillarykrumbholz/Mission_to_Mars/blob/master/Images/Portfolio%20browser.png)
 
 ### Link to Portfolio
-[Here](file:///C:/Users/krumb/Classwork/Portfolio/portfolio-template-02/index.html) is a link to my online portfolio. 
+[Here](https://github.com/hillarykrumbholz/Portfolio_GitHub) is a link to my GitHub portfolio. 
